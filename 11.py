@@ -72,8 +72,8 @@ animation_code = """
     <div class="container">
         <h1 style="color: #FF5733;">Under Construction</h1>
         <div class="typewriter">
-            Coming soon! Our website is currently under construction. 
-            <br> But we can’t wait to show you what’s in store. Stay tuned! 
+            Our website is currently under construction. 
+            <br>  Stay tuned! 
             <span style="font-size: 30px;">⌛</span>
         </div>
     </div>
